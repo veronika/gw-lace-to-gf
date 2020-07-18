@@ -428,7 +428,7 @@ Groundforge can not do real three paired joins. However, we can simulate such a 
 [![](w/page85a.gif)][P85]   
 
 In pattern A13 the three paired join is made as follows: the horizontal and vertical pairs make a cloth stitch, the diagonal paired is laid alternating over and under the cloth stitch. Gibritte has done research on A13, see her [blog][b-gibritte].         
-We have made two examples to play with: one with [star&dash;joins][a13star] and one with [fish&dash;joins][a13fish].
+We have made two examples to play with: one with [star-joins][a13star] and one with [fish-joins][a13fish].
 
 [p-mae-gf-3]: https://maetempels.github.io/MAE-gf/docs/misca#3-paired-join
 [b-gibritte]: http://www.gibritte.com/
