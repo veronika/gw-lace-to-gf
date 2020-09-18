@@ -480,7 +480,7 @@ The page [history] (and older [changes]) may show when a diagram definition
 was created or fixed and who authored it.
 For an easy overview the maintainer needs to list the changed/added patterns in the _edit note_.
 
-[indexes]: http://www.gwydir.demon.co.uk/jo/lace/whiting/index.htm
+[indexes]: http://www.theedkins.co.uk/jo/lace/whiting/index.htm
 [history]: https://github.com/d-bl/GroundForge/commits/master/docs/help/Whiting-Index.md
 [changes]: https://github.com/d-bl/GroundForge/wiki/Whiting-Index/_history
 [archive.org]: https://archive.org/details/laceguideformak00whit/page/234
