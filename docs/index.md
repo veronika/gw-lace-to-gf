@@ -343,7 +343,7 @@ The form generates symmetrical diagrams, sorry, not for IE-11 and older.
 A more recent overview of Valencienes grounds is published in
 '_25 Valiencieneskantjes_' by [Andries & Vroom], 2011
 
-[Andries & Vroom]: w/andries-vroom.png
+[Andries & Vroom]: w/25-val-cover.jpeg
 [base diagram]: /GroundForge/tiles?patchWidth=11&patchHeight=12&b1=ctc&tile=-5-,B-C&tileStitch=ctctc&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 
