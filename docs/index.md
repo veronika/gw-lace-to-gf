@@ -364,7 +364,7 @@ At least one stitch is not accurate:
 lazy joins (using pairs as threads where plaits cross) are not supported,
 a Valenciennes type of join is used instead.
 
-* **[The sample](http://www.gwydir.demon.co.uk/jo/lace/whiting/page87.htm)**  &mdash;
+* **[The sample](http://www.theedkins.co.uk/jo/lace/whiting/page87.htm)**  &mdash;
   Has two base types of wheels. One with a cloth stitch center, every other with a half stitch center.
   There are variations in the starting point of the centers.
 
@@ -394,7 +394,7 @@ The difference in the diagrams are not as much about nudging pins
 as the diagrams presented by for example [t]:
 a different working order is required.
 
-* **[The sample](http://www.gwydir.demon.co.uk/jo/lace/whiting/page235.htm)**  &mdash;
+* **[The sample](http://www.theedkins.co.uk/jo/lace/whiting/page235.htm)**  &mdash;
   Weaves 6 times. Weaving direction alternates per repeat.
   At least 4 methods for the diagonal pairs to traverse through the wavy ribbons,
   not counting mirrored versions.
