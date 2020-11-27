@@ -3,6 +3,7 @@ layout: default
 title: Whiting index
 ---
 * Each image links to the corresponding page of [the book](#source).
+* The rows and columns of the [sampler](w/sampler.png) are switched.
 * The `diagr` links lead to customizable diagrams.
 * [Notes](#notes) on the other components of the image captions.
 
